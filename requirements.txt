@@ -1,0 +1,5 @@
+lambeq
+nltk
+pandas
+tensorflow
+matplotlib
