@@ -3,3 +3,8 @@ nltk
 pandas
 tensorflow
 matplotlib
+scikit-learn
+numpy
+torch
+random
+pennylane
